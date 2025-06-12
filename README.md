@@ -37,6 +37,3 @@ python3 run_evi.py
 python3 run_eval.py claim_task
 python3 run_eval.py evi_task
 ```
-
-
-scp -r hoo:/home/xanh_2/scitab_align/ /Users/xanhho/Dropbox/2025_research/table_explanation/

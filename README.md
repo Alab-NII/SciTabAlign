@@ -1,6 +1,6 @@
 # Table-Text Alignment: Explaining Claim Verification
 
-This is the repository for the paper: [Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers]
+This is the repository for the paper: [Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers](https://arxiv.org/pdf/2506.10486)
 
 
 ## Reproduction of Results
